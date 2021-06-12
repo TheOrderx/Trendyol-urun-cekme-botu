@@ -4,6 +4,12 @@
  
  # Programdan Görüntüler:
  
- https://cdn.r10.net/editor/130953/1204180010.png
- 
- https://cdn.r10.net/editor/130953/3189597984.png
+![program](https://user-images.githubusercontent.com/75919114/121772326-6a515e00-cb7d-11eb-8a0b-a3df0a01fa2e.PNG)
+
+![program2](https://user-images.githubusercontent.com/75919114/121772338-7ccb9780-cb7d-11eb-81e3-5eda273acfb2.PNG)
+
+# İletişim 
+
+Discord Sunucum : https://discord.gg/afrUew6hpw
+
+veya TheOrder#0001 arkadaşlık atarak ulaşabilirsiniz 
